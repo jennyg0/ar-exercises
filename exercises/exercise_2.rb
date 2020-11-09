@@ -11,4 +11,3 @@ puts "----------"
 
 @store1.name = "Downtown"
 @store1.save
-
